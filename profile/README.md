@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="blue%20office%20Logo%202024.png" alt="blue office Logo" width="300"/>
+  <img src="/blue%20office%20Logo%202024.png" alt="blue office Logo" width="300"/>
 </p>
 
 # blue office ag
